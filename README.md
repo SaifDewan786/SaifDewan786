@@ -38,7 +38,7 @@ Key work:
 * Web-based visualization and warning-oriented interface planning
 * Code, model, firmware, and datasets withheld due to startup/IP confidentiality
 
-Repository: `ppg-to-ecg-tcn-monitoring-system`
+Repository: `Low-Cost-PPG-to-ECG-Monitoring-System`
 
 ---
 
